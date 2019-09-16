@@ -1,0 +1,139 @@
+img
+{
+	width: 100%;
+}
+
+body
+{
+	background-color: #ffffff;
+	color: #360070;
+	line-height: 1.5;
+}
+
+.navbar-toggler-icon
+{
+	background-color: #d1afb9;
+}
+.navbar-btn
+{
+	margin-right: 10px;
+}
+
+.navbar .form-inline
+{
+	display: block-inline;
+	float: right;
+}
+
+.carousel
+{
+	margin-top: 70px;
+	width: 100%;
+}
+
+.carousel-caption
+{
+	font-size: 50px;
+}
+
+.carousel-caption h5
+{
+	font-size: 30px;
+}
+
+h3
+{
+	border-bottom: 1px dashed;
+	border-color: #d1afb9; 
+}
+
+:target:before {
+content:"";
+display:block;
+height:90px; /* fixed header height*/
+margin:-90px 0 0; /* negative fixed header height */
+}
+
+.btn-default, .btn, .carousel-caption .btn
+{
+	background-color: #d1afb9;
+	border-color: #d1afb9;
+	color: #360070;
+} 
+
+.navbar-toggler
+{
+	height: 30px;
+	background: #d1afb9;
+}
+
+.navbar-toggler:focus{
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.icon-bar
+{
+	display: block;
+	background: #360070;
+	height: 2px;
+	width: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.btn-default:hover, .btn:hover
+{
+	background-color: #360070;
+	border-color: #360070;
+	color: #d1afb9;
+}
+
+.Google-Maps
+{
+	padding-top: 45px;
+}
+
+.texte1, .texte2, .texte3, .texte4, .texte5
+{
+	padding-top: 20px;
+}
+
+a, a:visited
+{
+	color: #d1afb9;
+}
+
+a:hover, a:active
+{
+	color: #360070;
+}
+
+#suivez-nous
+{
+	margin-top: 40px;
+	border-top: 1px dashed;
+	border-color: #d1afb9;
+	text-align: center;
+}
+
+.btn-default .btn-sm
+{
+	border-color: #d1afb9;
+}
+
+.iframe
+{
+	width: 100%;
+	height: 450px;
+}
+
+.image-prog
+{
+	width: auto;
+	height: auto;
+	float: right;
+}
